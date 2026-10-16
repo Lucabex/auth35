@@ -1,0 +1,6 @@
+@auth35_HostAddress = http://localhost:5274
+
+GET {{auth35_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
